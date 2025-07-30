@@ -39,7 +39,7 @@ Este projeto foi desenvolvido para automatizar um fluxo completo de validação 
 
 ## 📸 Fluxo do Robô
 
-![Fluxo do robô](sign_automation/fluxo.png)
+![Fluxo do robô](fluxo.png)
 
 > A imagem acima representa o ciclo de vida do robô, inspirado no REFramework tradicional.
 
