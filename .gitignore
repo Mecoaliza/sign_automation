@@ -1,0 +1,21 @@
+# Ignore virtual environments
+venv/
+apigithub/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Ignore IDE configurations
+.vscode/
+.idea/
+
+# Ignore logs
+*.log
+*.venv
+*.env
+
+*.csv
+*.json
+
